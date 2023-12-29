@@ -1,0 +1,21 @@
+.bannerbody{
+    background-color: green;
+    color: white;
+    padding: 80px;
+}
+.bannerbody button{
+    border: 1px solid white;
+    padding: 10px ;
+    background-color: rgb(205, 199, 199);
+    color: black;
+    border-radius:10px ;
+    font-weight: 600;
+}
+.cardbody{
+    margin: 10px ;
+    padding: 20px ;
+}
+.Cards{
+    display: flex;
+    margin: 10px;
+}
