@@ -9,7 +9,6 @@
 
 .themeChangeDiv {
     padding: 10px;
-    border-radius: 50%;
 }
 
 .themeChangeDiv img {
@@ -20,9 +19,6 @@
     cursor: pointer;
 }
 
-.themeChangeDiv:hover {
-    background-color: #8080808c;
-}
 
 .themeChangeDiv.clicked  i{
     color: white;

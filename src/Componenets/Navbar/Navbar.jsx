@@ -44,7 +44,7 @@ export default function Navbar({isMoonClicked, setisMoonClicked}) {
             </div>
           </div>
           <div className={`themeChangeDiv ${isMoonClicked ? 'clicked' : ''}`} onClick={handleSunClick}>
-            <i class="fa-solid fa-moon"></i>
+            <i class="fa-solid fa-sun"></i>
           </div>
         </div>
       </nav>
